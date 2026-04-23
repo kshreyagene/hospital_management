@@ -88,6 +88,11 @@ hospital_management/
 
    ```
    http://127.0.0.1:8000/docs
+
+   <img width="1307" height="661" alt="image" src="https://github.com/user-attachments/assets/e8ebd7f6-2d81-4f4f-b075-81ad881d81a9" />
+
+   
+
    ```
 
 ---
